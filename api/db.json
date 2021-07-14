@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "COD GamePlay",
+      "description": "Rush Gamplay of \"Call of Duty\"",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "Hey this is my stream great",
+      "userId": "110904512107272668053",
+      "id": 3
+    },
+    {
+      "title": "My new stream",
+      "description": "Here, is a great stream",
+      "userId": "110904512107272668053",
+      "id": 4
+    },
+    {
+      "title": "My new Stream",
+      "description": "Hey great stream",
+      "userId": "110904512107272668053",
+      "id": 5
+    }
+  ]
+}
